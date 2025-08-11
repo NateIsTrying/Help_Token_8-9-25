@@ -86,8 +86,8 @@ cd Help_Token_8-9-25
 ## 👥 Team
 
 - **sgopalani13** - Senior Developer  
-- **sallyhan.columbia** - Frontend Developer
 - **NateIsTrying** - Lead Developer
+- **sallyhan.columbia** - Backend Developer
 
 *Built in partnership with Flushing Tech*
 
