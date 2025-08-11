@@ -9,6 +9,8 @@
 
 HelpToken is cryptocurrency designed to improve local government by rewarding people for helping their community. Volunteer for your city, earn HELP tokens, spend them on local benefits. It's that simple.
 
+If you would like to see a front end demo of how this would look, here it is: https://github.com/NateIsTrying/Help-Token-Demo-8-10-25/tree/main
+
 ## 💡 The Big Idea
 
 Remember earning tickets at Chuck E. Cheese? You played games, got tickets, traded them for prizes. HelpToken works the same way, but instead of skee-ball, you're helping your community for tokens for coffee or movie tickets.
